@@ -1,0 +1,27 @@
+---
+title: "Ascalon Research"
+author: "Reinhard Tessadri"
+date: "`r format(Sys.Date(), format = '%d.%m.%Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Unser Ziel bei Ascalon ist es, Einsamkeit und soziale Isolation zu beenden. Hierfür wollen wir verstehen, wie das menschliche Sozialleben funktioniert. Allerdings gibt es zu diesem Thema erstaunlich wenig Wissenschaft, weswegen wir unsere eigenen Studien durchführen müssen.
+
+# Laborstudien
+
+### *Speed-Friending: Freunde kennenlernen für die Wissenschaft*
+
+Bei einem gemütlichen „Speed-Friending" Event hast du die Gelegenheit neue Leute - ähnlich wie beim Speed Dating - kennenzulernen. Dabei versuchen wir zu verstehen, was Beziehungen wirklich ausmacht, und können dir Einblicke in die eigene Persönlichkeit und dein Beziehungsverhalten geben. Die Teilnahme ist ganz einfach: Füll lediglich einen Fragebogen aus und genieß bei der Veranstaltung unsere Auswahl an kostenlosen Snacks und Getränken, während du neue Leute kennenlernst - für dich ausgewählt nach psychologischen Kriterien.
+
+# Online - Fragebögen
+
+Wir werden Fragebögen mit festen und offenen Antwortmöglichkeiten in folgenden Bereichen aussenden
+
+-   Welche Eigenschaften sind Personen in zwischenmenschlichen Beziehungen wichtig?
+-   Wie suchen sich Menschen passende Freunde und Partner?
+-   Wie wirken sich Gesichtseigenschaften auf die Wahrnehmung von Attraktivität und Sympathie aus?
+-   Was erwartet man sich in Beziehungen und Freundschaften?
