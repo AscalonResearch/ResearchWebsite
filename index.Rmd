@@ -2,9 +2,8 @@
 title: "Ascalon Research"
 author: "Reinhard Tessadri"
 date: "`r format(Sys.Date(), format = '%d.%m.%Y')`"
-output: 
-  html_document:
-    template: custom_template.html
+output: html_document
+favicon: "favicon.ico"
 ---
 
 ```{r setup, include=FALSE}
